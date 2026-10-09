@@ -1,0 +1,8 @@
+. Sección de Evidencias de Pruebas Reales (Navegador y Postman):
+Transcripción exacta de los flujos de consola y logs de Spring Boot levantando en el puerto 8080 con el context-path /api.
+Estructura de las peticiones analíticas con sus respectivas respuestas JSON exitosas ([] y datos poblados) que validamos en tus pantallas.
+Guía de Ejecución y Despliegue Local (Contenido sugerido para tu README.md):
+Requisitos de entorno (Java 17, Maven local de NetBeans y base de datos activa PostgreSQL).
+Configuración estricta de propiedades usada en el archivo application.properties.
+Script DDL y DML de inicialización automática de tablas (schema.sql).
+docs/browser/README.md
